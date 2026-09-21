@@ -1,7 +1,1 @@
-# Config Format: KEY=VALUE
-TELEGRAM_LINK=https://t.me/YourBot
-INSTAGRAM_LINK=https://instagram.com/yourpage
-AUTH_TITLE=NOT AUTHORIZED / अधिकृत नहीं
-EXPIRED_TITLE=SESSION EXPIRED / सत्र समाप्त
-AUTH_MESSAGE=Your device is not authorized. Please contact us.
-EXPIRED_MESSAGE=Your session has expired. Please renew your subscription.
+46bc22a29d81fa7e1006b6b5a8cdcac026e686f750a08c9afcb52eca31efa43a
