@@ -1,2 +1,24 @@
+# ============================================
+# AUTHORIZATION LIST
+# ============================================
+# Format: DEVICE_ID|EXPIRY_DATE|USERNAME
+#
+# DEVICE_ID   = SHA-256 hash (64 characters)
+# EXPIRY_DATE = YYYY-MM-DD or NEVER
+# USERNAME    = Display name (optional)
+#
+# Lines starting with # are ignored
+# Empty lines are ignored
+# ============================================
 
-90763ca9da8f0c756aad00c48db08d5a5e0e4ab87d7a1d1fb2a2be17129ed382
+# --- LIFETIME USERS ---
+a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2|NEVER|LifetimeUser1
+b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3|NEVER|LifetimeUser2
+
+# --- PREMIUM USERS (Expiring) ---
+c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4|2026-12-31|PremiumUser1
+d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5|2025-06-15|PremiumUser2
+e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6|2025-03-20|PremiumUser3
+
+# --- EXPIRED USERS (For Testing) ---
+f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7|2024-01-01|ExpiredUser1
