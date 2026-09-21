@@ -1,9 +1,1 @@
-# Format: DEVICE_ID|EXPIRY_DATE|USERNAME
-# DEVICE_ID = SHA-256 Hash (64 characters)
-# EXPIRY_DATE = YYYY-MM-DD (or NEVER for unlimited)
-# USERNAME = Display name (optional)
-
-46bc22a29d81fa7e1006b6b5a8cdcac026e686f750a08c9afcb52eca31efa43a|2026-12-31|JohnDoe
-b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1|2025-06-15|PremiumUser
-c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2|NEVER|LifetimeUser
-d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2g3|2025-01-01|ExpiredUser
+46bc22a29d81fa7e1006b6b5a8cdcac026e686f750a08c9afcb52eca31efa43a
