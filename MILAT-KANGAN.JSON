@@ -12,7 +12,7 @@ Empty lines are ignored
 ============================================
 
 # --- LIFETIME USERS ---
-46bc22a29d81fa7e1006b6b5a8cdcac026e686f750a08c9afcb52eca31efa43a|NEVER|LifetimeUser1
+#46bc22a29d81fa7e1006b6b5a8cdcac026e686f750a08c9afcb52eca31efa43a|NEVER|LifetimeUser1
 
 b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3|NEVER|LifetimeUser2
 
